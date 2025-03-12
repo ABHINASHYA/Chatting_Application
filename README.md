@@ -19,3 +19,18 @@ Key Components:
 1.Socket: Connects to the server.
 2.DataInputStream and DataOutputStream: For reading and writing data between the client and server.
 3.GUI Components: For user interaction (sending messages, displaying chat, etc.).
+
+
+
+![full chat group](https://github.com/user-attachments/assets/fec560e3-6b7c-4e98-bda9-69d23c7a69b1)
+
+
+
+Client-side and Server both side send and receive massages
+
+![Screenshot 2024-06-10 120007 client](https://github.com/user-attachments/assets/4bae764b-564e-4143-991d-5f0678fbe752)  
+
+
+
+![Screenshot 2024-06-10 120120 server](https://github.com/user-attachments/assets/15b11adb-0861-4621-9ad3-74fbdcfae9d1)
+
